@@ -36,7 +36,7 @@ while True:
     
     
     cv2.imshow("Green",green);
-    key=cv2.waitKey(1)
+    key=cv2.waitKey(0)
     if(key==27):
         cv2.destroyAllWindows();
         break;
