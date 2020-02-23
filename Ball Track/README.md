@@ -6,6 +6,7 @@ The webpage streams the video from a webcam or external camera and detects the p
 * numpy
 * imutils
 * flask
+* serial
 
 ## Installing the above packages using 'pip' :
 open your terminal and run the following commands,
