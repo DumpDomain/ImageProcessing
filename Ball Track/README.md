@@ -14,6 +14,7 @@ open your terminal and run the following commands,
 * pip install numpy
 * pip install imutils
 * pip install Flask
+* pip install pyserial
 
 ## To run this on your computer :
 * download the folder in your pc
